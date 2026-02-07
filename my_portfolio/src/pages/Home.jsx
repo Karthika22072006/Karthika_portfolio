@@ -103,7 +103,7 @@ export default function Home() {
                 {[
                   { icon: Github, label: "GitHub", href: "https://github.com/Karthika22072006" },
                   { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com/in/karthika-harikrishnan-a98a22295" },
-                  { icon: Mail, label: "Email", href: "mailto:kathikak301@gmail.com" },
+                  { icon: Mail, label: "Email", href: "mailto:contact@hkarthika.com" },
                 ].map((social, i) => (
                   <motion.a
                     key={social.label}

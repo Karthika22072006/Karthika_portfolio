@@ -30,8 +30,8 @@ export default function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "kathikak301@gmail.com",
-      href: "mailto:kathikak301@gmail.com"
+      value: "contact@hkarthika.com",
+      href: "mailto:contact@hkarthika.com"
     },
     {
       icon: Phone,
@@ -61,7 +61,7 @@ export default function Contact() {
     {
       icon: Mail,
       label: "Email",
-      href: "mailto:kathikak301@gmail.com"
+      href: "mailto:contact@hkarthika.com"
     }
   ];
 
